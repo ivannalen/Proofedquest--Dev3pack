@@ -4,6 +4,7 @@ import { BadgesSection } from "@/components/badges-section"
 import { GuildsSection } from "@/components/guilds-section"
 import { LeaderboardSection } from "@/components/leaderboard-section"
 import { FooterSection } from "@/components/footer-section"
+import { DailyQuestGame } from "@/components/daily-quest-game"
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
       <div className="fixed inset-0 pointer-events-none z-50 bg-[repeating-linear-gradient(0deg,transparent,transparent_2px,oklch(0_0_0/0.02)_2px,oklch(0_0_0/0.02)_4px)]" />
       
       <HeroSection />
+      <DailyQuestGame />
       <QuestsSection />
       <BadgesSection />
       <GuildsSection />
