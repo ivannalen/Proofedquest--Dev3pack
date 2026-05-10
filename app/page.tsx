@@ -1,4 +1,7 @@
-import { HeroSection } from "@/components/hero-section"
+'use client';
+
+import { useState } from 'react';
+import { registerQuest, mintBadge } from '@/lib/contracts';import { HeroSection } from "@/components/hero-section"
 import { QuestsSection } from "@/components/quests-section"
 import { BadgesSection } from "@/components/badges-section"
 import { GuildsSection } from "@/components/guilds-section"
