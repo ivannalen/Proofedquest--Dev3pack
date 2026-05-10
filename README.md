@@ -3,7 +3,7 @@
 Live: https://v0-proofedquest-landing-page.vercel.app/
 
 ## Smart Contract
-Solana Devnet - Anchor Program (Rust)
+Solana Devnet - Anchor Program (Rust) CeFxPviz7ooHBWxKoUVMXerYkDu6afZhNNp7buTiJHJE
 
 ## Features
 - Daily skill quests
