@@ -11,4 +11,5 @@ Solana Devnet - Anchor Program (Rust) CeFxPviz7ooHBWxKoUVMXerYkDu6afZhNNp7buTiJH
 - Mint NFT badges on Solana
 - Trade and guild recruitment
 
+Noah AI code: https://trynoah.ai/shared/69ff4cffc813b8511229cb28 
 Built with V0 + Noah AI + Solana
