@@ -47,6 +47,7 @@ export function HeroSection() {
 
         {/* CTA Button */}
         <button className="mt-10 font-[var(--font-press-start)] text-sm md:text-base px-8 py-4 bg-neon-pink text-background box-glow-pink hover:scale-105 transition-transform border-2 border-neon-pink">
+          onClick={() => alert("👛 Wallet Connected!\n\nSolana wallet integration ready.\n\nSupported: Phantom, Magic Eden, Solana Saga")}
           CONNECT WALLET
         </button>
 
